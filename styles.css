@@ -47,7 +47,8 @@ h2 {
   height: 100vh;
   width: 100vw;
   transition: margin 0.5s ease-out;
-  background: linear-gradient(90deg, #29323c 0%, #485563 100%);
+  /* background: linear-gradient(90deg, #29323c 0%, #485563 100%); */
+  background: linear-gradient(90deg, #276bb9 0%, #80addc 100%);
 }
 
 .screen.up {
@@ -97,8 +98,8 @@ h2 {
   position: relative;
   width: 500px;
   height: 500px;
-  background: linear-gradient(118.38deg, #29323c -4.6%, #485563 200.44%);
-  box-shadow: -8px -8px 20px #2a333d, 10px 7px 20px #475462;
+  background: linear-gradient(10deg, #102d4e 0%, #1f4e80 100%);
+  box-shadow: -8px -8px 20px #525f705d, 10px 7px 20px #5e6d7e8d;
   border-radius: 30px;
   overflow: hidden;
 }

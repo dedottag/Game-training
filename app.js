@@ -43,7 +43,7 @@ board.addEventListener("click", (e) => {
       blunders++;
       setTimeout(function () {
         board.style.color = board.style.background =
-          "linear-gradient(118.38deg, #29323c -4.6%, #485563 200.44%)";
+          "linear-gradient(10deg, #102d4e 0%, #1f4e80 100%)";
       }, 300);
     }
   }
